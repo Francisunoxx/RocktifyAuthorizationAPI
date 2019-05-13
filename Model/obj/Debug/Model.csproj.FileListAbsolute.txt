@@ -1,0 +1,6 @@
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\bin\Debug\Model.dll
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\bin\Debug\Model.pdb
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\obj\Debug\Model.dll
+C:\Users\ochotojs\source\repos\RocktifyAuthorizationAPI\Model\obj\Debug\Model.pdb
